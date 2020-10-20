@@ -51,7 +51,7 @@ Bunlar ve benzerleri karşımıza çıkan optimizasyon promlemlerindendir.
 
 - Karşımıza çözüm olarak gelebilcek çok fazla durum söz konusu.
 - Bu, arama uzayının çok fazla kıstastan ve seçenekten meynadana gelmesinden kaynaklarınıyor.
-- Ve bu kıstas çakışmarlı yüzünden zaten arama uzayının büyük çoğunluğu uygulanamaz çözümlerden oluşuyor.
+- Ve bu kıstas çakışmaları yüzünden zaten arama uzayının büyük çoğunluğu uygulanamaz çözümlerden oluşuyor.
 - Biz arama uzayımız içinden bizim için en uygun olanları seçip çözüm odağımızı bu yollar üzerine kurmalıyız.
 
 **`Tatties III uygulaması`**, evrimsel hesaplamalar kullanarak ve genetik algoritmalardan yararlanarak bizlere uygun ders programları oluşturmaya çalışan bir yazılımdır.
@@ -69,7 +69,7 @@ Bunlar ve benzerleri karşımıza çıkan optimizasyon promlemlerindendir.
 
 - Uzaya gönderilen uyduların antenlerinin titreşimlere karşı mümkün olduğunca daynaklı olması gerekiyor. Bu da bir optimizasyon problemi.
 - Bu optimizasyon problemlerini gidermek için de bu antenler ve uyduların tasarımları sırasında evrimsel hesaplama algoritmaları kullanılıyor.
-- Bu örnektte **`fitness`** yani **uygunluk** titreşim direnci ile ölüçülmekte. Titreşim direnci ne kadar yüksek bir tasarım ortaya koyarsak bu bizim ne kadar optimum bir tasarım yaptığımız manasına geliyor.
+- Bu örnektte **`fitness`** yani **uygunluk** titreşim direnci ile ölçülmekte. Titreşim direnci ne kadar yüksek bir tasarım ortaya koyarsak bu bizim ne kadar optimum bir tasarım yaptığımız manasına geliyor.
 
 ## Eniyileme Örneği 3: `Sekiz Vezir Problemi`
 
