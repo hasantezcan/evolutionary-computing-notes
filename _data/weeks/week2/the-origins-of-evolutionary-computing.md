@@ -128,7 +128,7 @@ Genlerden → fenotipik özelliklere karmaşık bir izdüşüm söz konusudur
 Gendeki küçük değişiklikler organizmada küçük değişikliklere neden olur (boy, saç rengi gibi) 
 
 <p align="center">
-    <img alt="imgName" src="images/Untitled%202.png" width="300">
+    <img alt="imgName" src="images/Untitled%202.png" width="400">
     <br>
     <em></em>
 </p>
@@ -310,8 +310,10 @@ azaltmak için bir çalışma yapmıştır[2].
 Gentik algoritma ile bulunana baktığımızda yamuk yamuk bir tasrım görüyor olsak da uzaydaki titreşimi en iyi abzorbe eden tasarım bu gördüğümüz tasarım.
 
 ## QWOP Genetik Algoritma Eğitimi
+QWOP oyununu evrimsel hesaplama algoritmaları ile çalıştırdığımızda elde edilen sonuçları gösteren bir [**test ortamı**](https://rednuht.org/genetic_walkers/). Dilerseniz QWOP oyununu**[buradan](http://www.foddy.net/Athletics.html)** siz de oynayabilirsiniz.
 
-[https://rednuht.org/genetic_walkers/](https://rednuht.org/genetic_walkers/)
+
+
 
 <p align="center">
     <img alt="imgName" src="images/qwop.gif" width="800">
@@ -321,9 +323,7 @@ Gentik algoritma ile bulunana baktığımızda yamuk yamuk bir tasrım görüyor
 
 ## Bipedal Evrim Stratejisi
 
-[https://www.youtube.com/watch?v=LzEOYgXodGI](https://www.youtube.com/watch?v=LzEOYgXodGI)
-
-[https://www.youtube.com/watch?v=pgaEE27nsQw](https://www.youtube.com/watch?v=pgaEE27nsQw)
+Evrimsel hesaplama algoritmaları kullanılarak optimize edilmiş yürütme modelleri. Detaylıca incelemek iserseniz. **[[video]](https://www.youtube.com/watch?v=pgaEE27nsQw)**
 
 <p align="center">
     <img alt="imgName" src="images/bipedal.gif" width="800">
