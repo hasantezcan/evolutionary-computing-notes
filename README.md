@@ -10,6 +10,7 @@ Lecturer: [**`Lect. Şevket Umut ÇAKIR`**](https://www.pau.edu.tr/sucakir/en)
 | :---: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
 |   1   |                [**`Chapter 1 - Problems to Be Solved`**](/_data/weeks/week1/problems-to-be-solved.md)                | [*`week1`*](_data/weeks/week1/week1-presentaion.pdf) |
 |   2   | [**`Chapter 2 - Evolutionary Computing: The Origins`**](/_data/weeks/week2/the-origins-of-evolutionary-computing.md) | [*`week2`*](_data/weeks/week2/week2-presentaion.pdf) |
+|   2   | [**`Chapter 3 - What Is an Evolutionary Algorithm?`**](/_data/weeks/week3/what-Is-an-evolutionary-algorithm.md) | [*`week3`*](_data/weeks/week3/week3-presentation.pdf) |
 
 <p align="center">
 	<a href="#">
