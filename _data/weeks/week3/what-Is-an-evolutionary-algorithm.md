@@ -2,7 +2,7 @@
 
 # Bölüm 3 - Evrimsel Hesaplama Nedir?
 
-> What Is an Evolutionary Algorithm?
+> Chapter 3 - What Is an Evolutionary Algorithm?
 
 ---
 
@@ -38,7 +38,7 @@ yaratır ve böylece yeniliği kolaylaştırır.
 
 # Bölüm 3 - Evrimsel Hesaplama Nedir?
 
-> What Is an Evolutionary Algorithm?
+> Chapter 3 - What Is an Evolutionary Algorithm?
 
 Bu bölümde; 
 
@@ -689,3 +689,9 @@ Amacım bu çantayı maksimum şekilde doldurarak. Maksium değerdeki elemanı a
 </p>
 
 Bunu evrimsel hesaplama yöntemleri ile geliştirmek istediğimizde nasıl bir temsil seçebiliriz?
+
+## Kaynaklar
+
+- [Öğr. Gör. Şevket Umut Çakır](https://www.pau.edu.tr/sucakir/) ders sunumları.
+
+- [`Introduction to Evolutionary Computing 2nd Edition`](https://www.springer.com/gp/book/9783662448731) ders kitabı.
